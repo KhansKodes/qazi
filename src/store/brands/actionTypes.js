@@ -1,0 +1,19 @@
+// Get Brands
+export const GET_BRANDS = "GET_BRANDS";
+export const GET_BRANDS_SUCCESS = "GET_BRANDS_SUCCESS";
+export const GET_BRANDS_FAIL = "GET_BRANDS_FAIL";
+
+// Create Brand
+export const CREATE_BRAND = "CREATE_BRAND";
+export const CREATE_BRAND_SUCCESS = "CREATE_BRAND_SUCCESS";
+export const CREATE_BRAND_FAIL = "CREATE_BRAND_FAIL";
+
+// Update Brand
+export const UPDATE_BRAND = "UPDATE_BRAND";
+export const UPDATE_BRAND_SUCCESS = "UPDATE_BRAND_SUCCESS";
+export const UPDATE_BRAND_FAIL = "UPDATE_BRAND_FAIL";
+
+// Delete Brand
+export const DELETE_BRAND = "DELETE_BRAND";
+export const DELETE_BRAND_SUCCESS = "DELETE_BRAND_SUCCESS";
+export const DELETE_BRAND_FAIL = "DELETE_BRAND_FAIL";
